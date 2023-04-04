@@ -7,6 +7,136 @@
  {
   "name": "GS TV",
   "photo": "https://yt3.googleusercontent.com/ytc/AL5GRJVKBGEcawRPYFZ_4cDIVEVciSfKuMy29Bx7zLks=s900-c-k-c0x00ffffff-no-rj",
+  "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8"
+ },
+ {
+  "name": "A spor",
+  "photo": "",
+  "url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8"
+ },
+ {
+  "name": "ATV",
+  "photo": "",
   "url": "https://trkvz-live.daioncdn.net/atv/atv.m3u8"
+ },
+ {
+  "name": "Beyaz Tv",
+  "photo": "",
+  "url": "https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8"
+ },
+ {
+  "name": "CNN Türk",
+  "photo": "",
+  "url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8"
+ },
+ {
+  "name": "DMAX",
+  "photo": "",
+  "url": "https://dogus-live.daioncdn.net/dmax/playlist.m3u8"
+ },
+ {
+  "name": "Fox Tv",
+  "photo": "",
+  "url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
+ },
+ {
+  "name": "Habertürk",
+  "photo": "",
+  "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
+ },
+ {
+  "name": "Kanal 7",
+  "photo": "",
+  "url": "https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8"
+ },
+ {
+  "name": "Kanal D",
+  "photo": "",
+  "url": "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8"
+ },
+ {
+  "name": "Kral POP",
+  "photo": "",
+  "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8"
+ },
+ {
+  "name": "Ntv",
+  "photo": "",
+  "url": "https://dogus-live.daioncdn.net/ntv/playlist.m3u8"
+ },
+ {
+  "name": "Show Tv",
+  "photo": "",
+  "url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8"
+ },
+ {
+  "name": "Sports Tv",
+  "photo": "",
+  "url": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
+ },
+ {
+  "name": "Star Tv",
+  "photo": "",
+  "url": "https://dogus-live.daioncdn.net/startv/playlist.m3u8"
+ },
+ {
+  "name": "TAY Tv",
+  "photo": "",
+  "url": "https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8"
+ },
+ {
+  "name": "Teve 2",
+  "photo": "",
+  "url": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8"
+ },
+ {
+  "name": "TGRT Haber",
+  "photo": "",
+  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist.m3u8"
+ },
+ {
+  "name": "TJK Tv 4K",
+  "photo": "",
+  "url": "https://tjktv-live.tjk.org/tjktv_1080p.m3u8"
+ },
+ {
+  "name": "TCL",
+  "photo": "",
+  "url": "https://dogus-live.daioncdn.net/tlc/playlist.m3u8"
+ },
+ {
+  "name": "TRT 1",
+  "photo": "",
+  "url": "https://tv-trt1-dai.medya.trt.com.tr/master.m3u8"
+ },
+ {
+  "name": "TRT Belgesel",
+  "photo": "",
+  "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
+ },
+ {
+  "name": "TRT Çocuk",
+  "photo": "",
+  "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
+ },
+ {
+  "name": "TRT Haber",
+  "photo": "",
+  "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
+ },
+ {
+  "name": "TRT Spor",
+  "photo": "",
+  "url": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8"
+ },
+ {
+  "name": "TV8",
+  "photo": "",
+  "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
+ },
+ {
+  "name": "TV8,5",
+  "photo": "",
+  "url": "https://tv85.blutv.com/blutv_tv8_5_live/live.m3u8"
  }
 ]
