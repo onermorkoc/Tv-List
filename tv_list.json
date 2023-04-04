@@ -1,23 +1,8 @@
 [
  {
-  "name": "FB TV",
-  "photo": "https://upload.wikimedia.org/wikipedia/tr/0/01/Fenerbah%C3%A7e_TV_Logo.jpg?20210118211911",
-  "url": "https://www.dailymotion.com/embed/video/x21oo10?autoplay=1"
- },
- {
   "name": "GS TV",
   "photo": "https://yt3.googleusercontent.com/ytc/AL5GRJVKBGEcawRPYFZ_4cDIVEVciSfKuMy29Bx7zLks=s900-c-k-c0x00ffffff-no-rj",
   "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8"
- },
- {
-  "name": "A spor",
-  "photo": "",
-  "url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8"
- },
- {
-  "name": "ATV",
-  "photo": "",
-  "url": "https://trkvz-live.daioncdn.net/atv/atv.m3u8"
  },
  {
   "name": "Beyaz Tv",
@@ -43,11 +28,6 @@
   "name": "Habertürk",
   "photo": "",
   "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
- },
- {
-  "name": "Kanal 7",
-  "photo": "",
-  "url": "https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8"
  },
  {
   "name": "Kanal D",
@@ -80,19 +60,9 @@
   "url": "https://dogus-live.daioncdn.net/startv/playlist.m3u8"
  },
  {
-  "name": "TAY Tv",
-  "photo": "",
-  "url": "https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8"
- },
- {
   "name": "Teve 2",
   "photo": "",
   "url": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8"
- },
- {
-  "name": "TGRT Haber",
-  "photo": "",
-  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist.m3u8"
  },
  {
   "name": "TJK Tv 4K",
@@ -133,10 +103,5 @@
   "name": "TV8",
   "photo": "",
   "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
- },
- {
-  "name": "TV8,5",
-  "photo": "",
-  "url": "https://tv85.blutv.com/blutv_tv8_5_live/live.m3u8"
  }
 ]
