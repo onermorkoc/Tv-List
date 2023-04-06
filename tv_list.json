@@ -145,5 +145,12 @@
   "category": "mix",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tv8.png",
   "url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8"
+ },
+ {
+  "id":21,
+  "name": "Test",
+  "category": "mix",
+  "photo": "",
+  "url": "http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1099.ts"
  }
 ]
