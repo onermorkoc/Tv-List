@@ -2,7 +2,7 @@
  {
   "id":0,
   "name": "Ntv",
-  "category": "news",
+  "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ntv.png",
   "url": "https://dogus-live.daioncdn.net/ntv/playlist.m3u8"
  },
@@ -16,7 +16,7 @@
  {
   "id":2,
   "name": "Cnn Türk",
-  "category": "news",
+  "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/cnnturk.png",
   "url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8"
  },
@@ -37,7 +37,7 @@
  {
   "id":5,
   "name": "Habertürk",
-  "category": "news",
+  "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/haberturk.png",
   "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8"
  },
@@ -51,14 +51,14 @@
  {
   "id":7,
   "name": "Kral Pop",
-  "category": "music",
+  "category": "Music-Müzik",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/kral-pop.png",
   "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8"
  },
  {
   "id":8,
   "name": "Gs Tv",
-  "category": "sport",
+  "category": "Sport-Spor",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/gs-tv.png",
   "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8"
  },
@@ -72,7 +72,7 @@
  {
   "id":10,
   "name": "Sports Tv",
-  "category": "sport",
+  "category": "Sport-Spor",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/sports-tv.png",
   "url": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
  },
@@ -114,28 +114,28 @@
  {
   "id":16,
   "name": "TRT Belgesel",
-  "category": "documentary",
+  "category": "Documentary-Belgesel",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-belgesel.png",
   "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
  },
  {
   "id":17,
   "name": "TRT Çocuk",
-  "category": "child",
+  "category": "Child-Çocuk",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-cocuk.png",
   "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
  },
  {
   "id":18,
   "name": "TRT Haber",
-  "category": "news",
+  "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-haber.png",
   "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
  },
  {
   "id":19,
   "name": "TRT Spor",
-  "category": "sport",
+  "category": "Sport-Spor",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-spor.png",
   "url": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8"
  },
