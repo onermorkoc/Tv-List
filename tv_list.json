@@ -93,7 +93,7 @@
  {
   "id":13,
   "name": "TJK Tv 4K",
-  "category": "",
+  "category": "unknow",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tjk.png",
   "url": "https://tjktv-live.tjk.org/tjktv_1080p.m3u8"
  },
