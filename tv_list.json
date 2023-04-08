@@ -320,5 +320,12 @@
   "category": "Documentary-Belgesel",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tgrtbelgesel.png",
   "url": "https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8"
+ },
+ {
+  "id":46,
+  "name": "Test",
+  "category": "mix",
+  "photo": "",
+  "url": "https://rr1---sn-u0g3oxu-pnue.googlevideo.com/videoplayback?expire=1680952146&ei=8vYwZKzKKJKnx_AP6YGTqAs&ip=188.119.39.132&id=o-AJ20Z-z1uH8DS0beqhyWwIPHmR7IxmKqEQG0mTmvGJpg&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&mh=e3&mm=31%2C29&mn=sn-u0g3oxu-pnue%2Csn-nv47lney&ms=au%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=1508750&spc=99c5CcO10gF7yNIvkht5TR8lmeYeSv3TJ9aXuRZoaxjgpopcDIZJhFM&vprv=1&mime=video%2Fmp4&ns=F1pShzNti0C484j1OWsDI1MM&gir=yes&clen=31123138&dur=210.624&lmt=1680827075428278&mt=1680929585&fvip=3&keepalive=yes&fexp=24007246&c=WEB&txp=5535434&n=oD3Cg5u-pLf2KQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhALhge361DC0Ou8OV_grqOZG7Wj6UnHpBDTwRzGM5SJETAiEAxEkrxuwXUosgDrHFnAU25cHadC_iD5bQq7PBM2-XnJY%3D&sig=AOq0QJ8wRgIhANrGJzffsvvSB0EJYcJk6JiJKQsYmdq-MTH81lpmO3zeAiEA_..."
  }
 ]
