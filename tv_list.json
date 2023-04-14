@@ -39,7 +39,7 @@
   "name": "Fox Tv HD",
   "category": "mix",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/fox-tv.png",
-  "url": "https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1681527138&st=YhmqsmFSywLi4LIGd6Kelw"
+  "url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
  },
  {
   "id":6,
@@ -151,7 +151,7 @@
   "name": "Haber Global HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/haberglobal.png",
-  "url": "https://stream-04.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpv2lLmETVePYbOyZZeuhg5DGViWTjaUgkl238SAweeMP)/dm/3/x81x3cd/s/live-1.m3u8"
+  "url": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8"
  },
  {
   "id":22,
@@ -162,17 +162,17 @@
  },
  {
   "id":23,
-  "name": "TV100 FHD",
+  "name": "TV100 HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tv100.png",
-  "url": "https://rr2---sn-u0g3oxu-pnuz.googlevideo.com/videoplayback?expire=1681491407&ei=bzE5ZLayKsOo1gKhiryICA&ip=188.119.60.41&id=sd94keSra6A.1&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=00&mm=44%2C29&mn=sn-u0g3oxu-pnuz%2Csn-nv47lns7&ms=lva%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=2138750&spc=99c5CZ79ebX2vnK6M_nron5etijYex1q7MF6YTcNz9EXNRNKfisjC4w&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=RjhjF0p7UxrXguvSV3Or8ogM&gir=yes&mt=1681469553&fvip=5&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=eZv8IWo66QyUOw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgRgM4ozuH429ch67WetRVWd5uPjSpGeVQOW0doVDethICIQDuEi09Ej60Qu_K50Ux_krWxaCZ4HM1VUzwGw1VPAQOuQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgOMqhB-SqfH-4K6XGpn_mG0SgncMxJu26NhqD6tvufCQCIHSKQQ000eV8k4TsYwWONG0zb_1D7MF7VhBTZ4A04f3l"
+  "url": "https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8"
  },
  {
   "id":24,
-  "name": "Ülke Tv",
+  "name": "Ülke Tv HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ulke.png",
-  "url": "https://stream-04.ix7.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUOPk9EH_cW38T9Ju6ZBQV9XZ6f7aXRdFBagfS91JD8fV)/dm/3/x7yb4xm/s/live-0.m3u8"
+  "url": "https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8"
  },
  {
   "id":25,
@@ -277,7 +277,7 @@
   "name": "FB Tv",
   "category": "Sport-Spor",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/fb.png",
-  "url": "https://stream-11.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYtasbFVVyzLJcA928ERuaSqom5qDGFsORdtlxlMRxLjn)/dm/3/x21oo10/s/live-0.m3u8"
+  "url": "https://stream-01.ix7.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYqO0s77ctsb68tp2CNvrHPxJxLZoXw5QSHxUY0sM6vd5)/dm/3/x21oo10/s/live-0.m3u8"
  },
  {
   "id":40,
