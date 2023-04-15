@@ -22,300 +22,230 @@
  },
  {
   "id":3,
-  "name": "Atv FHD",
-  "category": "mix",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/atv.png",
-  "url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1681514636&st=7PN2TpL_B54BJiT4et9mpg&sid=5b8p8e1qeowz&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3"
- },
- {
-  "id":4,
   "name": "Kanal D FHD",
   "category": "mix",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/kanal-d.png",
   "url": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8"
  },
  {
-  "id":5,
+  "id":4,
   "name": "Fox Tv HD",
   "category": "mix",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/fox-tv.png",
   "url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8"
  },
  {
-  "id":6,
+  "id":5,
   "name": "TV8 FHD",
   "category": "mix",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tv8.png",
   "url": "https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8"
  },
  {
-  "id":7,
+  "id":6,
   "name": "Kanal 7 FHD",
   "category": "mix",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/kanal7.png",
   "url": "https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=5aixfzh8r6e8&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3"
  },
  {
-  "id":8,
+  "id":7,
   "name": "Beyaz Tv FHD",
   "category": "mix",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/beyaz-tv.png",
   "url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=5aj0jwmne342&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3"
  },
  {
-  "id":9,
+  "id":8,
   "name": "Teve 2 FHD",
   "category": "mix",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/teve2.png",
   "url": "https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8"
  },
  {
-  "id":10,
-  "name": "TV8.5",
-  "category": "mix",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tv8.5.png",
-  "url": "https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk_480p.m3u8?e=1681519894&st=UdgLR7yrcbSxSHEH-qxWRg"
- },
- {
-  "id":11,
-  "name": "A2 FHD",
-  "category": "mix",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/a2.png",
-  "url": "https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1681514688&st=zGaad69yu94lEJs2yLjHvg&sid=5b8pb42lgmqw&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3"
- },
- {
-  "id":12,
+  "id":9,
   "name": "Dmax HD",
   "category": "mix",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/dmax.png",
   "url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=Tms0VWtFUVZGQUcrdG5lcnpFZFE4OWlKeDEzemMyL1lUQm8rRjNVYWNnZz0=&sid=5aj0n8ily7dq&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
  },
  {
-  "id":13,
+  "id":10,
   "name": "TLC HD",
   "category": "mix",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tlc.png",
   "url": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=bVBHOUJOdkpIMDF5bWFSMGcreFJ1VjZEYks4QnJQeGxjaTY0eC9NNytDOD0=&sid=5aj0rn99nhya&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
  },
  {
-  "id":14,
+  "id":11,
   "name": "Ntv",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ntv.png",
   "url": "https://dogus-live.daioncdn.net/ntv/playlist.m3u8"
  },
  {
-  "id":15,
+  "id":12,
   "name": "Cnn Türk",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/cnnturk.png",
   "url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8"
  },
  {
-  "id":16,
+  "id":13,
   "name": "HaberTürk FHD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/haberturk.png",
   "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8"
  },
  {
-  "id":17,
+  "id":14,
   "name": "TGRT Haber",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tgrthaber.png",
   "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8"
  },
  {
-  "id":18,
-  "name": "A Haber HD",
-  "category": "News-Haber",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ahaber.png",
-  "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=sD5-dOIiOh6GSK67GqRysA&e=1681514742&SessionID=1.3.573451685.1681458725&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web"
- },
- {
-  "id":19,
+  "id":15,
   "name": "24 Tv HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/24tv.png",
   "url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8"
  },
  {
-  "id":20,
+  "id":16,
   "name": "TRT Haber HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-haber.png",
   "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
  },
  {
-  "id":21,
+  "id":17,
   "name": "Haber Global HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/haberglobal.png",
   "url": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8"
  },
  {
-  "id":22,
+  "id":18,
   "name": "Halk Tv FHD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/halk.png",
   "url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=5aj3ayrq2vz2&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3"
  },
  {
-  "id":23,
+  "id":19,
   "name": "TV100 HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tv100.png",
   "url": "https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8"
  },
  {
-  "id":24,
+  "id":20,
   "name": "Ülke Tv HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ulke.png",
   "url": "https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8"
  },
  {
-  "id":25,
-  "name": "A News HD",
-  "category": "News-Haber",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/anews.png",
-  "url": "https://trkvz-live.ercdn.net/anewshd/anewshd_720p.m3u8?st=B2_60B8RhAhVAT4Mbe1T-Q&e=1681514789&SessionID=1.3.76801666.1681458789&StreamGroup=canli-yayin&Site=anews&DeviceGroup=web"
- },
- {
-  "id":26,
+  "id":21,
   "name": "TRT World HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trtworld.png",
   "url": "https://tv-trtworld.live.trt.com.tr/master_720.m3u8"
  },
  {
-  "id":27,
+  "id":22,
   "name": "PowerTürk Tv",
   "category": "Music-Müzik",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/powerturk.png",
   "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
  },
  {
-  "id":28,
+  "id":23,
   "name": "DreamTürk Tv",
   "category": "Music-Müzik",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/dreamturk.png",
   "url": "https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8"
  },
  {
-  "id":29,
+  "id":24,
   "name": "Kral Pop",
   "category": "Music-Müzik",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/kral-pop.png",
   "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8"
  },
  {
-  "id":30,
+  "id":25,
   "name": "TRT Müzik",
   "category": "Music-Müzik",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trtmuzik.png",
   "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
  },
  {
-  "id":31,
-  "name": "Kral Tv",
-  "category": "Music-Müzik",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/kral.png",
-  "url": "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8"
- },
- {
-  "id":32,
+  "id":26,
   "name": "Power Tv",
   "category": "Music-Müzik",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/power.png",
   "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8"
  },
  {
-  "id":33,
+  "id":27,
   "name": "Number 1 Türk",
   "category": "Music-Müzik",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/number1.png",
   "url": "https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8"
  },
  {
-  "id":34,
-  "name": "A Spor FHD",
-  "category": "Sport-Spor",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/aspor.png",
-  "url": "https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1681515089&st=1mLLLEtS4hrGUpGypOZIew&sid=5b8pwl8q50xe&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3"
- },
- {
-  "id":35,
+  "id":28,
   "name": "Gs Tv",
   "category": "Sport-Spor",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/gs-tv.png",
   "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8"
  },
  {
-  "id":36,
+  "id":29,
   "name": "Sports Tv",
   "category": "Sport-Spor",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/sports-tv.png",
   "url": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
  },
  {
-  "id":37,
+  "id":30,
   "name": "TJK Tv FHD",
   "category": "Sport-Spor",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tjk.png",
   "url": "https://tjktv-live.tjk.org/tjktv_1080p.m3u8"
  },
  {
-  "id":38,
+  "id":31,
   "name": "TRT Spor HD",
   "category": "Sport-Spor",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-spor.png",
   "url": "https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8"
  },
  {
-  "id":39,
-  "name": "FB Tv",
-  "category": "Sport-Spor",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/fb.png",
-  "url": "https://stream-01.ix7.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYqO0s77ctsb68tp2CNvrHPxJxLZoXw5QSHxUY0sM6vd5)/dm/3/x21oo10/s/live-0.m3u8"
- },
- {
-  "id":40,
+  "id":32,
   "name": "TRT Çocuk HD",
   "category": "Child-Çocuk",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-cocuk.png",
   "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
  },
  {
-  "id":41,
+  "id":33,
   "name": "Cartoon Network",
   "category": "Child-Çocuk",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/cartoonnetwork.png",
   "url": "https://yayin1.canlitv.day/live/cartoonnetwork.stream/chunklist_w2080417745.m3u8?hash=7043e8a9c0d1420e13cdabf85fea6ae2"
  },
  {
-  "id":42,
-  "name": "Minika Go",
-  "category": "Child-Çocuk",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/minikago.png",
-  "url": "https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8?st=-F5vOEe3fg2SjzVVk7d0eA&e=1681515165&SessionID=1.3.844063296.1681459165&StreamGroup=canli-yayin&Site=minikago&DeviceGroup=web"
- },
- {
-  "id":43,
-  "name": "Minika Çoçuk",
-  "category": "Child-Çocuk",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/minikacocuk.png",
-  "url": "https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=ILi3vp9DXV9t0N3XGYQ9Uw&e=1681515202&SessionID=1.3.1032454279.1681459201&StreamGroup=canli-yayin&Site=minikacocuk&DeviceGroup=web"
- },
- {
-  "id":44,
+  "id":34,
   "name": "TRT Belgesel HD",
   "category": "Documentary-Belgesel",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-belgesel.png",
   "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
  },
  {
-  "id":45,
+  "id":35,
   "name": "TGRT Belgesel",
   "category": "Documentary-Belgesel",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tgrtbelgesel.png",
