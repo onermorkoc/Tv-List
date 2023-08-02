@@ -123,7 +123,7 @@
   "name": "Haber Global HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/haberglobal.png",
-  "url": "https://stream-06.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpkMS4fonDzJ17YKVr0EldpWwA1YjWznUg48bPdRGpWEz)/dm/3/x81x3cd/s/live-1.m3u8"
+  "url": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8"
  },
  {
   "id":18,
@@ -235,7 +235,7 @@
   "name": "Cartoon Network",
   "category": "Child-Çocuk",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/cartoonnetwork.png",
-  "url": "https://yayin1.canlitv.day/live/cartoonnetwork.stream/chunklist_w1298049372.m3u8?hash=16b0fbd6313be541984cb186ee6df06b"
+  "url": "https://cdn11.alfastreamtv.com/cartoon360.m3u8?tkn=V3e1x-WeUH0lgdCW15somA&tms=1691003993&hst=tr.canlitv.services&ip=188.119.40.214"
  },
  {
   "id":34,
@@ -249,6 +249,6 @@
   "name": "TGRT Belgesel",
   "category": "Documentary-Belgesel",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tgrtbelgesel.png",
-  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8?md5=lmINusJhGARiBdFhj1jG1g&expires=1691074806"
+  "url": "https://tv.ensonhaber.com/tgrtbelgesel/tgrtbelgesel_576p.m3u8"
  }
 ]
