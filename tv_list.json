@@ -102,7 +102,7 @@
   "name": "TGRT Haber",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tgrthaber.png",
-  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8"
+  "url": "https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?&sid=5ojvz6kpicm3&app=b27a82b9-5821-454c-8077-df804db285c2&ce=2"
  },
  {
   "id":15,
@@ -137,14 +137,14 @@
   "name": "TV100 HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tv100.png",
-  "url": "https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8"
+  "url": "https://cdn95.alfastreamtv.com/tv100.m3u8?tkn=_RoQNqbXZhQvQ0RlPAgi_g&tms=1693087026&hst=tr.canlitv.services&ip=188.119.40.30"
  },
  {
   "id":20,
   "name": "Ülke Tv HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ulke.png",
-  "url": "https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8"
+  "url": "https://stream-04.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUP-0GH6PZ0NPjqJ_jRmCFUcGyRRDB1h3Kjm1Gf2m5UPo)/dm/3/x7yb4xm/s/live-1.m3u8"
  },
  {
   "id":21,
@@ -193,7 +193,7 @@
   "name": "Number 1 Türk",
   "category": "Music-Müzik",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/number1.png",
-  "url": "https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8"
+  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8?md5=XpqJk0SjZ6C-FrvFoDBA9Q&expires=1693158896"
  },
  {
   "id":28,
@@ -235,7 +235,7 @@
   "name": "Cartoon Network",
   "category": "Child-Çocuk",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/cartoonnetwork.png",
-  "url": "https://cdn11.alfastreamtv.com/cartoon360.m3u8?tkn=V3e1x-WeUH0lgdCW15somA&tms=1691003993&hst=tr.canlitv.services&ip=188.119.40.214"
+  "url": "https://cdn95.alfastreamtv.com/cartoon.m3u8?tkn=t1A11LU2et2lfSSo8ybWjA&tms=1693086931&hst=tr.canlitv.services&ip=188.119.40.30"
  },
  {
   "id":34,
