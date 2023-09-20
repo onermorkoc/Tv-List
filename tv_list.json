@@ -137,14 +137,14 @@
   "name": "TV100 HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tv100.png",
-  "url": "https://cdn95.alfastreamtv.com/tv100.m3u8?tkn=_RoQNqbXZhQvQ0RlPAgi_g&tms=1693087026&hst=tr.canlitv.services&ip=188.119.40.30"
+  "url": "https://cdn94.alfastreamtv.com/tv100.m3u8?tkn=wjb7dHUr2dU6b9einoLe9A&tms=1695258776&hst=tr.canlitv.team&ip=159.146.74.148"
  },
  {
   "id":20,
   "name": "Ülke Tv HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ulke.png",
-  "url": "https://stream-04.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUP-0GH6PZ0NPjqJ_jRmCFUcGyRRDB1h3Kjm1Gf2m5UPo)/dm/3/x7yb4xm/s/live-1.m3u8"
+  "url": "https://stream-10.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUE3Oa9drkm1QD0fU-XsYuKHHpepAvdYP2zsh831o9yKA)/dm/3/x7yb4xm/s/live-1.m3u8"
  },
  {
   "id":21,
@@ -235,7 +235,7 @@
   "name": "Cartoon Network",
   "category": "Child-Çocuk",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/cartoonnetwork.png",
-  "url": "https://cdn95.alfastreamtv.com/cartoon.m3u8?tkn=t1A11LU2et2lfSSo8ybWjA&tms=1693086931&hst=tr.canlitv.services&ip=188.119.40.30"
+  "url": "https://yayin1.canlitv.day/live/cartoonnetwork.stream/chunklist_w711722983.m3u8?hash=0e44fb90d15746452cb589b447116b74"
  },
  {
   "id":34,
