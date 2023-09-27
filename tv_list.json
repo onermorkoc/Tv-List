@@ -257,5 +257,12 @@
    "category": "mix",
    "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/atv.png",
    "url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1695858486&st=-9ZToUD-u72cQjofZKOzsA&sid=5rp31olgbx42&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3"
+  },
+  {
+    "id":37,
+    "name": "A Haber HD",
+    "category": "News-Haber",
+    "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ahaber.png",
+    "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=D6MQJdIEnIOPfRz5GEgQLw&e=1695858943&SessionID=1.3.2043734101.1695813736&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web"
   }
 ]
