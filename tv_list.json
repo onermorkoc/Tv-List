@@ -137,14 +137,14 @@
   "name": "TV100 HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tv100.png",
-  "url": "https://cdn94.alfastreamtv.com/tv100.m3u8?tkn=wjb7dHUr2dU6b9einoLe9A&tms=1695258776&hst=tr.canlitv.team&ip=159.146.74.148"
+  "url": "https://cdn2.alfastreamtv.com/tv100.m3u8?tkn=ph0RsYUu0c5s5DUcoPLtuQ&tms=1697022546&hst=tr.canlitv.team&ip=159.146.57.209"
  },
  {
   "id":20,
   "name": "Ülke Tv HD",
   "category": "News-Haber",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ulke.png",
-  "url": "https://stream-10.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUE3Oa9drkm1QD0fU-XsYuKHHpepAvdYP2zsh831o9yKA)/dm/3/x7yb4xm/s/live-1.m3u8"
+  "url": "https://stream-11.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUNm4blfq3Fu0qhzKK_4FQ_ey--Nhk6L9vAbwbyD4wU4S)/dm/3/x7yb4xm/s/live-1.m3u8"
  },
  {
   "id":21,
@@ -235,7 +235,7 @@
   "name": "Cartoon Network",
   "category": "Child-Çocuk",
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/cartoonnetwork.png",
-  "url": "https://ecanlitv3.etvserver.com/cartoonnetwork.m3u8?tkn=VDS59slUJMlW4pDADIiQ4Q&tms=1695252272"
+  "url": "https://ecanlitv3.etvserver.com/cartoonnetwork.m3u8?tkn=p4C_9ru6Y-rfCQoDGxDmXQ&tms=1697015429"
  },
  {
   "id":34,
@@ -256,13 +256,13 @@
    "name": "Atv FHD",
    "category": "mix",
    "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/atv.png",
-   "url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1695858486&st=-9ZToUD-u72cQjofZKOzsA&sid=5rp31olgbx42&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3"
+   "url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1697053474&st=GO7FXdbOi1Kv2heVn7w_9A&sid=5t2fpcil87kr&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3"
   },
   {
     "id":37,
     "name": "A Haber HD",
     "category": "News-Haber",
     "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ahaber.png",
-    "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=D6MQJdIEnIOPfRz5GEgQLw&e=1695858943&SessionID=1.3.2043734101.1695813736&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web"
+    "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=AtaN03g2XzwULuG-1_4QYQ&e=1697053569&SessionID=1.3.1671228018.1697008368&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web"
   }
 ]
