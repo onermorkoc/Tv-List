@@ -1,7 +1,5 @@
-[
-    {
-        "version": 2.1,
-        "disable": true,
-        "description": "Yeni bir güncelleme bulundu. Uygulamayı kullanabilmeniz için güncellemeniz gerekmektedir"
-    }
-]
+{
+    "version": 2.1,
+    "disable": true,
+    "description": "Yeni bir güncelleme bulundu. Uygulamayı kullanabilmeniz için güncellemeniz gerekmektedir"
+}
