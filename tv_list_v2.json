@@ -157,15 +157,15 @@
   "category": "News",
   "categoryId": 1,
   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tv100.png",
-  "url": "https://cdn2.alfastreamtv.com/tv100.m3u8?tkn=ph0RsYUu0c5s5DUcoPLtuQ&tms=1697022546&hst=tr.canlitv.team&ip=159.146.57.209"
+  "url": "https://tv100.blutv.com/blutv_tv100_live/live.m3u8"
  },
  {
   "id":20,
-  "name": "Ülke Tv HD",
-  "category": "News",
-  "categoryId": 1,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ulke.png",
-  "url": "https://stream-11.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUNm4blfq3Fu0qhzKK_4FQ_ey--Nhk6L9vAbwbyD4wU4S)/dm/3/x7yb4xm/s/live-1.m3u8"
+  "name": "TRT 2 HD",
+  "category": "mix",
+  "categoryId": 0,
+  "photo": "",
+  "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8"
  },
  {
   "id":21,
@@ -265,14 +265,6 @@
  },
  {
   "id":33,
-  "name": "Cartoon Network",
-  "category": "Child",
-  "categoryId": 4,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/cartoonnetwork.png",
-  "url": "https://ecanlitv3.etvserver.com/cartoonnetwork.m3u8?tkn=p4C_9ru6Y-rfCQoDGxDmXQ&tms=1697015429"
- },
- {
-  "id":34,
   "name": "TRT Belgesel HD",
   "category": "Documentary",
   "categoryId": 5,
@@ -280,7 +272,7 @@
   "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
  },
  {
-  "id":35,
+  "id":34,
   "name": "TGRT Belgesel",
   "category": "Documentary",
   "categoryId": 5,
@@ -288,19 +280,227 @@
   "url": "https://tv.ensonhaber.com/tgrtbelgesel/tgrtbelgesel_576p.m3u8"
  },
  {
-   "id":36,
-   "name": "Atv FHD",
-   "category": "mix",
-   "categoryId": 0,
-   "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/atv.png",
-   "url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1697053474&st=GO7FXdbOi1Kv2heVn7w_9A&sid=5t2fpcil87kr&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3"
-  },
-  {
-    "id":37,
-    "name": "A Haber HD",
-    "category": "News",
-    "categoryId": 1,
-    "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/ahaber.png",
-    "url": "https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=AtaN03g2XzwULuG-1_4QYQ&e=1697053569&SessionID=1.3.1671228018.1697008368&StreamGroup=canli-yayin&Site=ahaber&DeviceGroup=web"
-  }
+  "id":35,
+  "name": "360 Tv HD",
+  "category": "mix",
+  "categoryId": 0,
+  "photo": "",
+  "url": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8"
+ },
+ {
+  "id":36,
+  "name": "Akit Tv HD",
+  "category": "News",
+  "categoryId": 1,
+  "photo": "",
+  "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8"
+ },
+ {
+  "id":37,
+  "name": "Bloomberght HD",
+  "category": "Economy",
+  "categoryId": 6,
+  "photo": "",
+  "url": "https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8"
+ },
+ {
+  "id":38,
+  "name": "Diyanet Tv FHD",
+  "category": "Religious",
+  "categoryId": 7,
+  "photo": "",
+  "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/dqNeUMwjsiTqT_0.m3u8"
+ },
+ {
+  "id":39,
+  "name": "Flash Haber Tv",
+  "category": "News",
+  "categoryId": 1,
+  "photo": "",
+  "url": "https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8"
+ },
+ {
+  "id":40,
+  "name": "Sat 7 Türk FHD",
+  "category": "Religious",
+  "categoryId": 7,
+  "photo": "",
+  "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_source/chunks_dvr.m3u8"
+ },
+ {
+  "id":41,
+  "name": "Tatlıses Tv",
+  "category": "Music",
+  "categoryId": 2,
+  "photo": "",
+  "url": "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8"
+ },
+ {
+  "id":42,
+  "name": "TRT Diyanet Çoçuk HD",
+  "category": "Child",
+  "categoryId": 4,
+  "photo": "",
+  "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8"
+ },
+ {
+  "id":43,
+  "name": "Tvnet",
+  "category": "News",
+  "categoryId": 1,
+  "photo": "",
+  "url": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8"
+ },
+ {
+  "id":44,
+  "name": "Agro Tv",
+  "category": "News",
+  "categoryId": 1,
+  "photo": "",
+  "url": "https://yayin30.haber100.com/live/agrotv/playlist.m3u8"
+ },
+ {
+  "id":45,
+  "name": "Ekotürk",
+  "category": "Economy",
+  "categoryId": 6,
+  "photo": "",
+  "url": "https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8"
+ },
+ {
+  "id":46,
+  "name": "Ulusal Kanal",
+  "category": "News",
+  "categoryId": 1,
+  "photo": "",
+  "url": "https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8"
+ },
+ {
+  "id":47,
+  "name": "Krt Tv",
+  "category": "News",
+  "categoryId": 1,
+  "photo": "",
+  "url": "https://krt.blutv.com/blutv_krt_live/live.m3u8"
+ },
+ {
+  "id":48,
+  "name": "Milyon Tv",
+  "category": "Music",
+  "categoryId": 2,
+  "photo": "",
+  "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8"
+ },
+ {
+  "id":49,
+  "name": "Number 1 Aşk",
+  "category": "Music",
+  "categoryId": 2,
+  "photo": "",
+  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
+ },
+ {
+  "id":50,
+  "name": "Number 1 Damar",
+  "category": "Music",
+  "categoryId": 2,
+  "photo": "",
+  "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8"
+ },
+ {
+  "id":51,
+  "name": "Olay Türk Tv",
+  "category": "mix",
+  "categoryId": 0,
+  "photo": "",
+  "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
+ },
+ {
+  "id":52,
+  "name": "PowerTürk Akustik",
+  "category": "Music",
+  "categoryId": 2,
+  "photo": "",
+  "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
+ },
+ {
+  "id":53,
+  "name": "PowerTürk Slow",
+  "category": "Music",
+  "categoryId": 2,
+  "photo": "",
+  "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+ },
+ {
+  "id":54,
+  "name": "PowerTürk Taptaze",
+  "category": "Music",
+  "categoryId": 2,
+  "photo": "",
+  "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
+ },
+ {
+  "id":55,
+  "name": "Show Türk",
+  "category": "mix",
+  "categoryId": 0,
+  "photo": "",
+  "url": "https://showturk.blutv.com/blutv_showturk2/live.m3u8"
+ },
+ {
+  "id":56,
+  "name": "Eba İlkokul",
+  "category": "Education",
+  "categoryId": 8,
+  "photo": "",
+  "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8"
+ },
+ {
+  "id":57,
+  "name": "Eba Ortaokul",
+  "category": "Education",
+  "categoryId": 8,
+  "photo": "",
+  "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8"
+ },
+ {
+  "id":58,
+  "name": "Eba Lise",
+  "category": "Education",
+  "categoryId": 8,
+  "photo": "",
+  "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8"
+ },
+ {
+  "id":59,
+  "name": "TRT Spor Yıldız",
+  "category": "Sport",
+  "categoryId": 3,
+  "photo": "",
+  "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
+ },
+ {
+  "id":60,
+  "name": "TRT Türk",
+  "category": "mix",
+  "categoryId": 0,
+  "photo": "",
+  "url": "https://trtturk.blutv.com/blutv_trtturk2/live.m3u8"
+ },
+ {
+  "id":61,
+  "name": "Türk Haber",
+  "category": "News",
+  "categoryId": 1,
+  "photo": "",
+  "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8"
+ },
+ {
+  "id":62,
+  "name": "Kanal 58",
+  "category": "News",
+  "categoryId": 1,
+  "photo": "",
+  "url": "https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8"
+ }
 ]
