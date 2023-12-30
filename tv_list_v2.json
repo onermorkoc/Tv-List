@@ -4,7 +4,7 @@
   "name": "TRT 1 FHD",
   "category": "mix",
   "categoryId": 0,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt1.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-1.png",
   "url": "https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8"
  },
  {
@@ -100,7 +100,7 @@
   "name": "Cnn Türk",
   "category": "News",
   "categoryId": 1,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/cnnturk.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/cnn-turk.png",
   "url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8"
  },
  {
@@ -108,7 +108,7 @@
   "name": "HaberTürk FHD",
   "category": "News",
   "categoryId": 1,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/haberturk.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/haber-turk.png",
   "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8"
  },
  {
@@ -116,7 +116,7 @@
   "name": "TGRT Haber",
   "category": "News",
   "categoryId": 1,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tgrthaber.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tgrt-haber.png",
   "url": "https://tgrthaber.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8?&sid=5ojvz6kpicm3&app=b27a82b9-5821-454c-8077-df804db285c2&ce=2"
  },
  {
@@ -124,7 +124,7 @@
   "name": "24 Tv HD",
   "category": "News",
   "categoryId": 1,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/24tv.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/24-tv.png",
   "url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8"
  },
  {
@@ -140,7 +140,7 @@
   "name": "Haber Global HD",
   "category": "News",
   "categoryId": 1,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/haberglobal.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/haber-global.png",
   "url": "https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8"
  },
  {
@@ -148,7 +148,7 @@
   "name": "Halk Tv FHD",
   "category": "News",
   "categoryId": 1,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/halk.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/halk-tv.png",
   "url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=5aj3ayrq2vz2&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3"
  },
  {
@@ -164,7 +164,7 @@
   "name": "TRT 2 HD",
   "category": "mix",
   "categoryId": 0,
-  "photo": "",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-2.png",
   "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8"
  },
  {
@@ -172,7 +172,7 @@
   "name": "TRT World HD",
   "category": "News",
   "categoryId": 1,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trtworld.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-world.png",
   "url": "https://tv-trtworld.live.trt.com.tr/master_720.m3u8"
  },
  {
@@ -180,7 +180,7 @@
   "name": "PowerTürk Tv",
   "category": "Music",
   "categoryId": 2,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/powerturk.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/power-turk.png",
   "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
  },
  {
@@ -188,7 +188,7 @@
   "name": "DreamTürk Tv",
   "category": "Music",
   "categoryId": 2,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/dreamturk.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/dream-turk.png",
   "url": "https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8"
  },
  {
@@ -204,7 +204,7 @@
   "name": "TRT Müzik",
   "category": "Music",
   "categoryId": 2,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trtmuzik.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-muzik.png",
   "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8"
  },
  {
@@ -276,7 +276,7 @@
   "name": "TGRT Belgesel",
   "category": "Documentary",
   "categoryId": 5,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tgrtbelgesel.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/tgrt-belgesel.png",
   "url": "https://tv.ensonhaber.com/tgrtbelgesel/tgrtbelgesel_576p.m3u8"
  },
  {
@@ -308,7 +308,7 @@
   "name": "Diyanet Tv FHD",
   "category": "Religious",
   "categoryId": 7,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/diyanet.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/diyanet-tv.png",
   "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/dqNeUMwjsiTqT_0.m3u8"
  },
  {
@@ -412,7 +412,7 @@
   "name": "Olay Türk Tv",
   "category": "mix",
   "categoryId": 0,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/olayturk.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/olay-turk.png",
   "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8"
  },
  {
@@ -420,7 +420,7 @@
   "name": "PowerTürk Akustik",
   "category": "Music",
   "categoryId": 2,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/powerturk-akustik.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/power-turk-akustik.png",
   "url": "https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
  },
  {
@@ -428,7 +428,7 @@
   "name": "PowerTürk Slow",
   "category": "Music",
   "categoryId": 2,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/powerturk-slow.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/power-turk-slow.png",
   "url": "https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
  },
  {
@@ -436,7 +436,7 @@
   "name": "PowerTürk Taptaze",
   "category": "Music",
   "categoryId": 2,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/powerturk-taptaze.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/power-turk-taptaze.png",
   "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
  },
  {
@@ -444,7 +444,7 @@
   "name": "Show Türk",
   "category": "mix",
   "categoryId": 0,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/showturk.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/show-turk.png",
   "url": "https://showturk.blutv.com/blutv_showturk2/live.m3u8"
  },
  {
@@ -476,7 +476,7 @@
   "name": "TRT Spor Yıldız",
   "category": "Sport",
   "categoryId": 3,
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-spor-yıldız.png",
+  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt-spor-yildiz.png",
   "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
  },
  {
